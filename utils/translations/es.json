@@ -1,0 +1,121 @@
+{
+  "navbar": {
+    "menu": "Menú"
+  },
+  "sidebar": {
+    "ourModels": "Nuestros Modelos",
+    "brand": "Marca",
+    "aboutUs": "Acerca de Nosotros",
+    "news": "Noticias",
+    "contact": "Contacto",
+    "b03x": "B03X",
+    "b06": "B06",
+    "b07": "B07",
+    "b08": "B08"
+  },
+  "footer": {
+    "sitemap": "Mapa del Sitio",
+    "home": "Inicio",
+    "ourModels": "Nuestros Modelos",
+    "aboutUs": "Acerca de Nosotros",
+    "contact": "Contacto",
+    "news": "Noticias",
+    "distribuidor": "Distribuidor",
+    "distribuitorOfficial": "Distribuidor Oficial Leap Motor",
+    "contactInfo": "Contacto",
+    "ubicacion": "Ubicación",
+    "charles": "Charles Sumner",
+    "telefono": "Teléfono",
+    "correo": "Correo",
+    "siguenos": "Síguenos",
+    "soporte": "Soporte",
+    "chatWithUs": "Chatea con nosotros",
+    "available": "Disponible 24/7",
+    "copyright": "© 2024 Leap Motor. Todos los derechos reservados.",
+    "politicaPrivacidad": "Política de Privacidad",
+    "terminosCondiciones": "Términos y Condiciones"
+  },
+  "exterior": {
+    "exterior": "Exterior",
+    "confident": "Con su forma segura, el diseño atrae naturalmente la atención.",
+    "eleganceEveryLine": "ELEGANCIA EN CADA LÍNEA",
+    "strongPresence": "Una Fuerte Presencia, Construida para Inspirar Confianza",
+    "description1": "El Leapmotor C10 fusiona innovación tecnológica con elegancia natural. Su diseño frontal equilibrado con faros LED automáticos crea una firma moderna y segura, mientras que las ruedas de cubo tridente añaden deportividad y potencia.",
+    "description2": "Desde el lado, tres líneas de cintura esculpidas enfatizan el movimiento y la armonía, dando al perfil un aspecto elegante y propositivo. En la parte trasera, el alerón de estilo ala aeronáutica mejora la aerodinámica y refuerza la estética deportiva pero elegante.",
+    "description3": "Un diseño donde la belleza se encuentra con la potencia — impactante a la vista, avanzado de conducir.",
+    "ledHeadlights": "Faros LED Automáticos",
+    "ledDesc": "Su diseño futurista se integra perfectamente en el perfil aerodinámico del vehículo, combinando funcionalidad con estética moderna.",
+    "flushHandles": "Manijas de Puerta Ocultas",
+    "flushDesc": "Integradas perfectamente en la carrocería, las manijas ocultas mejoran el diseño moderno y la eficiencia aerodinámica.",
+    "hiddenWiper": "Limpiaparabrisas Trasero Oculto",
+    "wiperDesc": "El limpiaparabrisas trasero oculto mantiene una silueta limpia, mejora la aerodinámica y asegura visibilidad clara en cualquier clima.",
+    "premiumWheels": "Ruedas de Aleación Premium",
+    "wheelsDesc": "Audaces ruedas deportivas de aleación de 20\" para rendimiento o elegantes ruedas de cinco radios dobles de 18\" para eficiencia ligera."
+  },
+  "interior": {
+    "interior": "Interior",
+    "comfortMeets": "Donde la Comodidad se Encuentra con la Innovación",
+    "intelligentDesign": "Diseño Inteligente para la Vida Moderna"
+  },
+  "home": {
+    "bannerSubheading": "La nueva generación de vehículos eléctricos.",
+    "c10": "C10",
+    "b03x": "B03X",
+    "b10": "B10",
+    "newB03X": "NUEVO B03X",
+    "t03": "T03"
+  },
+  "c10": {
+    "heading": "C10",
+    "subheading": "100% Eléctrico | Híbrido EV | Tracción Total",
+    "discoverTitle": "Descubre 3 diferentes sistemas de propulsión",
+    "discoverSubheading": "Eléctrico o rango extendido, para cada viaje.",
+    "electric_rwd": "100% Eléctrico - RWD",
+    "electric_rwd_range": "Hasta 510 km de autonomía",
+    "hybrid_ev": "C10 Híbrido EV",
+    "hybrid_ev_range": "Hasta 970km de autonomía",
+    "electric_awd": "100% Eléctrico - AWD",
+    "electric_awd_desc": "Tracción Total"
+  },
+  "grid": {
+    "discover": "Descubrir"
+  },
+  "exteriorComponent": {
+    "heading": "Exterior",
+    "subheading": "Con su forma segura, el diseño atrae naturalmente la atención.",
+    "eleganceLine": "ELEGANCIA EN CADA LÍNEA",
+    "strongPresence": "Una Fuerte Presencia, Construida para Inspirar Confianza",
+    "description1": "El Leapmotor C10 fusiona innovación tecnológica con elegancia natural. Su diseño frontal equilibrado con faros LED automáticos crea una firma moderna y segura, mientras que las ruedas de cubo tridente añaden deportividad y potencia.",
+    "description2": "Desde el lado, tres líneas de cintura esculpidas enfatizan el movimiento y la armonía, dando al perfil un aspecto elegante y propositivo. En la parte trasera, el alerón de estilo ala aeronáutica mejora la aerodinámica y refuerza la estética deportiva pero elegante.",
+    "description3": "Un diseño donde la belleza se encuentra con la potencia — impactante a la vista, avanzado de conducir.",
+    "ledHeadlights": "Faros LED Automáticos",
+    "ledHeadlightsDesc": "Su diseño futurista se integra perfectamente en el perfil aerodinámico del vehículo, combinando funcionalidad con estética moderna.",
+    "flushHandles": "Manijas de Puerta Ocultas",
+    "flushHandlesDesc": "Integradas perfectamente en la carrocería, las manijas ocultas mejoran el diseño moderno y la eficiencia aerodinámica.",
+    "hiddenWiper": "Limpiaparabrisas Trasero Oculto",
+    "hiddenWiperDesc": "El limpiaparabrisas trasero oculto mantiene una silueta limpia, mejora la aerodinámica y asegura visibilidad clara en cualquier clima.",
+    "premiumWheels": "Ruedas de Aleación Premium",
+    "premiumWheelsDesc": "Audaces ruedas deportivas de aleación de 20\" para rendimiento o elegantes ruedas de cinco radios dobles de 18\" para eficiencia ligera."
+  },
+  "interiorComponent": {
+    "heading": "Interior",
+    "subheading": "Con su forma segura, el diseño atrae naturalmente la atención.",
+    "eleganceLine": "ELEGANCIA EN CADA LÍNEA",
+    "strongPresence": "Una Fuerte Presencia, Construida para Inspirar Confianza",
+    "description1": "El Leapmotor C10 fusiona innovación tecnológica con elegancia natural. Su diseño frontal equilibrado con faros LED automáticos crea una firma moderna y segura, mientras que las ruedas de cubo tridente añaden deportividad y potencia.",
+    "description2": "Desde el lado, tres líneas de cintura esculpidas enfatizan el movimiento y la armonía, dando al perfil un aspecto elegante y propositivo. En la parte trasera, el alerón de estilo ala aeronáutica mejora la aerodinámica y refuerza la estética deportiva pero elegante.",
+    "description3": "Un diseño donde la belleza se encuentra con la potencia — impactante a la vista, avanzado de conducir.",
+    "ambientLight": "Luz Ambiental LED",
+    "ambientLightDesc": "Crea una atmósfera sofisticada con iluminación ambiental personalizable en todo el interior.",
+    "charger": "Carga Rápida",
+    "chargerDesc": "Tecnología de carga rápida avanzada que permite cargar de manera eficiente y reduce significativamente el tiempo de carga.",
+    "console": "Consola Central",
+    "consoleDesc": "Consola central inteligentemente diseñada con controles intuitivos y almacenamiento para comodidad moderna.",
+    "storage": "Soluciones de Almacenamiento",
+    "storageDesc": "Compartimentos de almacenamiento optimizados en toda la cabina ofrecen amplio espacio para tus esenciales."
+  },
+  "imgBanner": {
+    "discover": "Descubrir",
+    "viewMore": "Ver Más"
+  }
+}

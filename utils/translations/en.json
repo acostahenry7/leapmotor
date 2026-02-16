@@ -1,0 +1,121 @@
+{
+  "navbar": {
+    "menu": "Menu"
+  },
+  "sidebar": {
+    "ourModels": "Our Models",
+    "brand": "Brand",
+    "aboutUs": "About Us",
+    "news": "News",
+    "contact": "Contact",
+    "b03x": "B03X",
+    "b06": "B06",
+    "b07": "B07",
+    "b08": "B08"
+  },
+  "footer": {
+    "sitemap": "Sitemap",
+    "home": "Home",
+    "ourModels": "Our Models",
+    "aboutUs": "About Us",
+    "contact": "Contact",
+    "news": "News",
+    "distribuidor": "Distribuidor",
+    "distribuitorOfficial": "Official Leap Motor Distributor",
+    "contactInfo": "Contact",
+    "ubicacion": "Location",
+    "charles": "Charles Sumner",
+    "telefono": "Phone",
+    "correo": "Email",
+    "siguenos": "Follow Us",
+    "soporte": "Support",
+    "chatWithUs": "Chat with us",
+    "available": "Available 24/7",
+    "copyright": "© 2024 Leap Motor. All rights reserved.",
+    "politicaPrivacidad": "Privacy Policy",
+    "terminosCondiciones": "Terms and Conditions"
+  },
+  "exterior": {
+    "exterior": "Exterior",
+    "confident": "With its confident shape, the design naturally draws attention.",
+    "eleganceEveryLine": "ELEGANCE IN EVERY LINE",
+    "strongPresence": "A Strong Presence, Built to Inspire Confidence",
+    "description1": "The Leapmotor C10 merges technological innovation with natural elegance. Its balanced front design with LED auto headlights creates a confident, modern signature, while the trident hub wheels add sportiness and power.",
+    "description2": "From the side, three sculpted waist lines emphasize motion and harmony, giving the profile a sleek, purposeful look. At the rear, the airfoil-style spoiler enhances aerodynamics and reinforces the sporty yet elegant aesthetic.",
+    "description3": "A design where beauty meets power — striking to look at, advanced to drive.",
+    "ledHeadlights": "LED Auto Headlights",
+    "ledDesc": "Their futuristic design integrates seamlessly into the vehicle's aerodynamic profile, combining functionality with a modern aesthetic.",
+    "flushHandles": "Flush Door Handles",
+    "flushDesc": "Seamlessly integrated into the body, hidden door handles enhance the modern design and improve aerodynamic efficiency.",
+    "hiddenWiper": "Hidden Rear Wiper",
+    "wiperDesc": "The hidden rear wiper maintains a clean silhouette, improves aerodynamics, and ensures clear visibility in all weather.",
+    "premiumWheels": "Premium Alloy Wheels",
+    "wheelsDesc": "Bold 20\" alloy sporty wheels for performance or the sleek 18\" double five-spoke wheels for lightweight efficiency."
+  },
+  "interior": {
+    "interior": "Interior",
+    "comfortMeets": "Where Comfort Meets Innovation",
+    "intelligentDesign": "Intelligent Design for Modern Living"
+  },
+  "home": {
+    "bannerSubheading": "The new generation of electric vehicles.",
+    "c10": "C10",
+    "b03x": "B03X",
+    "b10": "B10",
+    "newB03X": "NEW B03X",
+    "t03": "T03"
+  },
+  "c10": {
+    "heading": "C10",
+    "subheading": "100% Electric | Hybrid EV | All Wheel Drive",
+    "discoverTitle": "Discover 3 different powertrains",
+    "discoverSubheading": "Electric or extended range, for every journey.",
+    "electric_rwd": "100% Electric - RWD",
+    "electric_rwd_range": "Up to 510 km Range",
+    "hybrid_ev": "C10 Hybrid EV",
+    "hybrid_ev_range": "Up to 970km km Range",
+    "electric_awd": "100% Electric - AWD",
+    "electric_awd_desc": "All Wheel Drive"
+  },
+  "grid": {
+    "discover": "Discover"
+  },
+  "exteriorComponent": {
+    "heading": "Exterior",
+    "subheading": "With its confident shape, the design naturally draws attention.",
+    "eleganceLine": "ELEGANCE IN EVERY LINE",
+    "strongPresence": "A Strong Presence, Built to Inspire Confidence",
+    "description1": "The Leapmotor C10 merges technological innovation with natural elegance. Its balanced front design with LED auto headlights creates a confident, modern signature, while the trident hub wheels add sportiness and power.",
+    "description2": "From the side, three sculpted waist lines emphasize motion and harmony, giving the profile a sleek, purposeful look. At the rear, the airfoil-style spoiler enhances aerodynamics and reinforces the sporty yet elegant aesthetic.",
+    "description3": "A design where beauty meets power — striking to look at, advanced to drive.",
+    "ledHeadlights": "LED Auto Headlights",
+    "ledHeadlightsDesc": "Their futuristic design integrates seamlessly into the vehicle's aerodynamic profile, combining functionality with a modern aesthetic.",
+    "flushHandles": "Flush Door Handles",
+    "flushHandlesDesc": "Seamlessly integrated into the body, hidden door handles enhance the modern design and improve aerodynamic efficiency.",
+    "hiddenWiper": "Hidden Rear Wiper",
+    "hiddenWiperDesc": "The hidden rear wiper maintains a clean silhouette, improves aerodynamics, and ensures clear visibility in all weather.",
+    "premiumWheels": "Premium Alloy Wheels",
+    "premiumWheelsDesc": "Bold 20\" alloy sporty wheels for performance or the sleek 18\" double five-spoke wheels for lightweight efficiency."
+  },
+  "interiorComponent": {
+    "heading": "Interior",
+    "subheading": "With its confident shape, the design naturally draws attention.",
+    "eleganceLine": "ELEGANCE IN EVERY LINE",
+    "strongPresence": "A Strong Presence, Built to Inspire Confidence",
+    "description1": "The Leapmotor C10 merges technological innovation with natural elegance. Its balanced front design with LED auto headlights creates a confident, modern signature, while the trident hub wheels add sportiness and power.",
+    "description2": "From the side, three sculpted waist lines emphasize motion and harmony, giving the profile a sleek, purposeful look. At the rear, the airfoil-style spoiler enhances aerodynamics and reinforces the sporty yet elegant aesthetic.",
+    "description3": "A design where beauty meets power — striking to look at, advanced to drive.",
+    "ambientLight": "LED Ambient Light",
+    "ambientLightDesc": "Creates a sophisticated atmosphere with customizable ambient lighting throughout the interior.",
+    "charger": "Fast Charging",
+    "chargerDesc": "Advanced fast charging technology allows you to charge efficiently and reduce charging time significantly.",
+    "console": "Central Console",
+    "consoleDesc": "Intelligently designed central console with intuitive controls and storage for modern convenience.",
+    "storage": "Storage Solutions",
+    "storageDesc": "Optimized storage compartments throughout the cabin provide ample space for all your essentials."
+  },
+  "imgBanner": {
+    "discover": "Discover",
+    "viewMore": "View More"
+  }
+}
