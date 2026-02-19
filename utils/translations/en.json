@@ -8,6 +8,7 @@
     "aboutUs": "About Us",
     "news": "News",
     "contact": "Contact",
+    "ota": "OTA Updates",
     "b03x": "B03X",
     "b06": "B06",
     "b07": "B07",
@@ -20,6 +21,7 @@
     "aboutUs": "About Us",
     "contact": "Contact",
     "news": "News",
+    "ota": "OTA Updates",
     "distribuidor": "Distribuidor",
     "distribuitorOfficial": "Official Leap Motor Distributor",
     "contactInfo": "Contact",
@@ -31,7 +33,7 @@
     "soporte": "Support",
     "chatWithUs": "Chat with us",
     "available": "Available 24/7",
-    "copyright": "© 2024 Leap Motor. All rights reserved.",
+    "copyright": "© 2026 Leap Motor. All rights reserved.",
     "politicaPrivacidad": "Privacy Policy",
     "terminosCondiciones": "Terms and Conditions"
   },
@@ -58,12 +60,16 @@
     "intelligentDesign": "Intelligent Design for Modern Living"
   },
   "home": {
-    "bannerSubheading": "The new generation of electric vehicles.",
     "c10": "C10",
-    "b03x": "B03X",
-    "b10": "B10",
-    "newB03X": "NEW B03X",
-    "t03": "T03"
+    "b03x": "Design That Commands Attention",
+    "b10": "Technology in Every Detail",
+    "newB03X": "Power Meets Efficiency",
+    "t03": "The Future Is Now",
+    "bannerSubheading": "The new generation of electric vehicles.",
+    "bannerSubheadingB03X": "Elegant lines, modern character, and a look that never goes unnoticed.",
+    "bannerSubheadingB10": "Smart innovation engineered for a superior driving experience.",
+    "bannerSubheadingNewB03X": "Comfort, roominess, and sophistication in every journey.",
+    "bannerSubheadingT03": "Dynamic performance with the smoothness of electric mobility."
   },
   "c10": {
     "heading": "C10",
@@ -117,5 +123,33 @@
   "imgBanner": {
     "discover": "Discover",
     "viewMore": "View More"
+  },
+  "brand": {
+    "bannerHeading": "The Brand",
+    "bannerSubheading": "Excellence within reach",
+    "section0Title": "Green Technology for Everyone",
+    "section0Desc": "We, Leapmotor, believe that the future of sustainable mobility should be accessible to everyone. And since the creation of our brand in 2015, we've taken the challenge to democratize green mobility by continuously developing products that combines cutting-edge technologies, eco-friendly innovations and affordability to redefine a green mobility for all.\n    Our intelligent powertrain, our battery pack and management technologies are all developed in-house and was the world's first pure EV company to implement CTC (Cell-To-Chassis) technology on a large scale since 2022. This approach allows us a competitive edge on quality and cost control, and to deliver exceptional values to our customers.",
+    "section1Title": "Life easing Technologies that make real differences",
+    "section1Desc": "We envision a future where smart innovations power every journey. Our electric cars seamlessly integrate advanced technologies and sustainable designs to enhance your daily life. With Leapmotor drive forward into a smarter, greener tomorrow - where innovations meet everyday excellence.\n\nWith Leapmotor, driving electric is not only a smart choice, but also a lifestyle",
+    "section2Title": "Long-Standing Sales and Service powered by Stellantis for every journey",
+    "section2Desc": "Leapmotor International is a joint-venture between Stellantis and Leapmotor to proudly distribute Leapmotor products out of China. Powered by the solid expertise and the experienced distribution network of Stellantis, our mission is to provide customers all over the world with the best in class customer experiences in terms of sales, aftersales, services and parts."
+  },
+  "contact": {
+    "title": "Tell us how we can help you",
+    "modelPlaceholder": "Select Model",
+    "actionPlaceholder": "What is your request?",
+    "namePlaceholder": "Name",
+    "emailPlaceholder": "Email",
+    "messagePlaceholder": "Your Message",
+    "nameField": "Name",
+    "modelField": "Model",
+    "emailField": "Email",
+    "messageField": "Message",
+    "options": {
+      "quotation": "Quotation",
+      "testDrive": "Test Drive",
+      "generalInfo": "General Information"
+    },
+    "submitButton": "Send"
   }
 }

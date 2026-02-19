@@ -12,7 +12,7 @@ export const LayoutClient = ({ children }: LayoutClientProps) => {
   return (
     <>
       <Navbar />
-      <main className="mt-18">{children}</main>
+      <main className="mt-20">{children}</main>
       <Footer />
     </>
   );

@@ -25,27 +25,28 @@ const ImgBanner = ({
   showButton = true,
 }: ImgBannerProps) => {
   const { t } = useLanguage();
+  const srcSet = imgUrl.includes(".png")
+    ? imgUrl.replace(".png", "_m.png")
+    : imgUrl.replace(".jpg", "_m.jpg");
+
   return (
     <div className="relative">
       <picture>
-        <source
-          media="(max-width: 1024px)"
-          srcSet={imgUrl.replace(".png", "_m.png")}
-        />
-        <img src={imgUrl} alt="B03X" className="w-full object-fit" />
+        <source media="(max-width: 1024px)" srcSet={srcSet} />
+        <img src={imgUrl} alt={imgAlt} className="w-full object-fit" />
       </picture>
       {showBody && (
         <div
           className={cn(
-            "w-full bg-black md:absolute md:bg-transparent z-10 md:-translate-y-70 md:px-16 px-6 pt-4 pb-8",
+            "w-full bg-black lg:absolute lg:bg-transparent z-10 lg:-translate-y-50 xl:-translate-y-70 lg:px-16 px-6 pt-4 pb-8",
             variant === "right" && "right-0 text-right",
-            variant === "center" && "left-1/2 md:-translate-x-1/2 text-center",
+            variant === "center" && "left-1/2 lg:-translate-x-1/2 text-center",
           )}
         >
-          <h2 className="text-2xl md:text-8xl font-bold text-white uppercase">
+          <h2 className="text-2xl md:text-5xl 2xl:text-7xl  font-bold text-white uppercase">
             {heading}
           </h2>
-          <p className="text-lg md:text-4xl text-white uppercase mt-2">
+          <p className="text-lg md:text-2xl 2xl:text-4xl text-white uppercase mt-2">
             {subheading}
           </p>
 

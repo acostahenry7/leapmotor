@@ -18,34 +18,34 @@ export default function Home() {
     },
     {
       id: 1,
-      imgUrl: "/images/b05.png",
+      imgUrl: "/images/c10.jpg",
       imgAlt: t("home.b03x"),
       heading: t("home.b03x"),
-      subheading: t("home.bannerSubheading"),
+      subheading: t("home.bannerSubheadingB03X"),
       position: "left" as const,
     },
     {
       id: 2,
-      imgUrl: "/images/b10.png",
+      imgUrl: "/images/c10_3.jpg",
       imgAlt: t("home.b10"),
       heading: t("home.b10"),
-      subheading: t("home.bannerSubheading"),
-      position: "right" as const,
+      subheading: t("home.bannerSubheadingB10"),
+      position: "left" as const,
     },
     {
       id: 3,
-      imgUrl: "/images/b03x.png",
+      imgUrl: "/images/c10_4.jpg",
       imgAlt: t("home.newB03X"),
       heading: t("home.newB03X"),
-      subheading: t("home.bannerSubheading"),
+      subheading: t("home.bannerSubheadingNewB03X"),
       position: "right" as const,
     },
     {
       id: 4,
-      imgUrl: "/images/t03.png",
+      imgUrl: "/images/c10_5.jpg",
       imgAlt: t("home.t03"),
       heading: t("home.t03"),
-      subheading: t("home.bannerSubheading"),
+      subheading: t("home.bannerSubheadingT03"),
       position: "right" as const,
     },
   ];
@@ -65,11 +65,11 @@ export default function Home() {
           />
         ))}
       <video
-        src="/videos/home_1.mp4"
+        src="/videos/home_1.m4v"
         autoPlay
         muted
         loop
-        className="w-full h-[50lvh] md:h-auto object-cover"
+        className="w-full h-[50lvh] md:h-[70lvh] object-cover"
       />
       {bannerMeta
         .filter((_, i) => i > 1 && i <= 3)
@@ -83,13 +83,13 @@ export default function Home() {
             variant={meta.position as "left" | "right"}
           />
         ))}
-      <video
+      {/* <video
         src="/videos/home_2.mp4"
         autoPlay
         muted
         loop
         className="w-full h-[50lvh] md:h-auto object-cover"
-      />
+      /> */}
       {bannerMeta
         .filter((_, i) => i > 3)
         .map((meta) => (

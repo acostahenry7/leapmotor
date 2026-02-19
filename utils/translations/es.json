@@ -8,6 +8,7 @@
     "aboutUs": "Acerca de Nosotros",
     "news": "Noticias",
     "contact": "Contacto",
+    "ota": "Actualizaciones OTA",
     "b03x": "B03X",
     "b06": "B06",
     "b07": "B07",
@@ -20,6 +21,7 @@
     "aboutUs": "Acerca de Nosotros",
     "contact": "Contacto",
     "news": "Noticias",
+    "ota": "Actualizaciones OTA",
     "distribuidor": "Distribuidor",
     "distribuitorOfficial": "Distribuidor Oficial Leap Motor",
     "contactInfo": "Contacto",
@@ -31,7 +33,7 @@
     "soporte": "Soporte",
     "chatWithUs": "Chatea con nosotros",
     "available": "Disponible 24/7",
-    "copyright": "© 2024 Leap Motor. Todos los derechos reservados.",
+    "copyright": "© 2026 Leap Motor. Todos los derechos reservados.",
     "politicaPrivacidad": "Política de Privacidad",
     "terminosCondiciones": "Términos y Condiciones"
   },
@@ -60,10 +62,15 @@
   "home": {
     "bannerSubheading": "La nueva generación de vehículos eléctricos.",
     "c10": "C10",
-    "b03x": "B03X",
-    "b10": "B10",
-    "newB03X": "NUEVO B03X",
-    "t03": "T03"
+    "b03x": "Diseño que impone presencia",
+    "b10": "Tecnología en cada detalle",
+    "newB03X": "Potencia con eficiencia",
+    "t03": "El futuro es ahora",
+    "bannerSubheadingC10": "La nueva generación de vehículos eléctricos.",
+    "bannerSubheadingB03X": "Líneas elegantes, carácter moderno y una presencia que nunca pasa desapercibida.",
+    "bannerSubheadingB10": "Innovación inteligente diseñada para una experiencia de conducción superior.",
+    "bannerSubheadingNewB03X": "Comodidad, amplitud y sofisticación en cada viaje.",
+    "bannerSubheadingT03": "Rendimiento dinámico con la suavidad de la movilidad eléctrica."
   },
   "c10": {
     "heading": "C10",
@@ -117,5 +124,33 @@
   "imgBanner": {
     "discover": "Descubrir",
     "viewMore": "Ver Más"
+  },
+  "brand": {
+    "bannerHeading": "La Marca",
+    "bannerSubheading": "Excelencia al alcance",
+    "section0Title": "Tecnología Verde para Todos",
+    "section0Desc": "Creemos en Leapmotor que el futuro de la movilidad sostenible debe ser accesible para todos. Y desde la creación de nuestra marca en 2015, hemos asumido el desafío de democratizar la movilidad verde desarrollando continuamente productos que combinan tecnologías de punta, innovaciones ecológicas y asequibilidad para redefinir la movilidad verde para todos.\n    Nuestro tren motriz inteligente, nuestro paquete de baterías y las tecnologías de gestión se desarrollan internamente y fuimos la primera compañía de vehículos eléctricos puros en implementar la tecnología CTC (Cell-To-Chassis) a gran escala desde 2022. Este enfoque nos permite una ventaja competitiva en control de calidad y costo, y entregar valor excepcional a nuestros clientes.",
+    "section1Title": "Tecnologías que facilitan la vida y hacen diferencias reales",
+    "section1Desc": "Imaginamos un futuro donde innovaciones inteligentes impulsen cada viaje. Nuestros autos eléctricos integran sin problemas tecnologías avanzadas y diseños sostenibles para mejorar tu vida diaria. Con Leapmotor avanza hacia un mañana más inteligente y verde - donde la innovación se encuentra con la excelencia cotidiana.\n\nCon Leapmotor, conducir eléctrico no solo es una opción inteligente, sino también un estilo de vida",
+    "section2Title": "Ventas y Servicio de Larga Trayectoria impulsados por Stellantis para cada viaje",
+    "section2Desc": "Leapmotor International es una empresa conjunta entre Stellantis y Leapmotor para distribuir con orgullo productos de Leapmotor fuera de China. Respaldados por la sólida experiencia y la red de distribución experimentada de Stellantis, nuestra misión es proporcionar a los clientes de todo el mundo las mejores experiencias de cliente en términos de ventas, servicios posteriores, mantenimiento y piezas."
+  },
+  "contact": {
+    "title": "Cuéntanos cómo podemos ayudarte",
+    "modelPlaceholder": "Seleccionar Modelo",
+    "actionPlaceholder": "¿Cuál es su solicitud?",
+    "namePlaceholder": "Nombre",
+    "emailPlaceholder": "Correo Electrónico",
+    "messagePlaceholder": "Tu Mensaje",
+    "nameField": "Nombre",
+    "modelField": "Modelo",
+    "emailField": "Correo",
+    "messageField": "Mensaje",
+    "options": {
+      "quotation": "Cotización",
+      "testDrive": "Prueba de Manejo",
+      "generalInfo": "Información General"
+    },
+    "submitButton": "Enviar"
   }
 }

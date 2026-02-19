@@ -28,11 +28,7 @@ const defaultMenuItems: MenuItem[] = [
   },
   {
     label: "Brand",
-    children: [
-      { label: "About Us", href: "#" },
-      { label: "News", href: "#" },
-      { label: "Contact", href: "#" },
-    ],
+    children: [{ label: "About the brand", href: "/brand" }],
   },
 ];
 
@@ -137,10 +133,14 @@ const Sidebar = ({
     {
       label: t("sidebar.brand"),
       children: [
-        { label: t("sidebar.aboutUs"), href: "#" },
-        { label: t("sidebar.news"), href: "#" },
-        { label: t("sidebar.contact"), href: "#" },
+        { label: t("sidebar.aboutUs"), href: "/brand" },
+        // { label: t("sidebar.news"), href: "#" },
+        // { label: t("sidebar.contact"), href: "#" },
       ],
+    },
+    {
+      label: t("sidebar.ota"),
+      children: [{ label: t("sidebar.ota"), href: "/ota" }],
     },
   ];
 

@@ -25,7 +25,7 @@ interface FooterProps {
 const defaultSitemapLinks: SitemapLink[] = [
   { label: "Home", href: "/" },
   { label: "Our Models", href: "/models" },
-  { label: "About Us", href: "/about" },
+  { label: "About Us", href: "/brand" },
   { label: "Contact", href: "/contact" },
   { label: "News", href: "/news" },
 ];
@@ -35,10 +35,10 @@ const Footer = ({ sitemapLinks = defaultSitemapLinks }: FooterProps) => {
 
   const translatedSitemapLinks = [
     { label: t("footer.home"), href: "/" },
-    { label: t("footer.ourModels"), href: "/models" },
-    { label: t("footer.aboutUs"), href: "/about" },
+    { label: t("footer.ourModels"), href: "/models/c10" },
+    { label: t("footer.aboutUs"), href: "/brand" },
     { label: t("footer.contact"), href: "/contact" },
-    { label: t("footer.news"), href: "/news" },
+    { label: t("footer.ota"), href: "/ota" },
   ];
 
   return (
@@ -150,7 +150,7 @@ const Footer = ({ sitemapLinks = defaultSitemapLinks }: FooterProps) => {
                 <Facebook size={18} />
               </a>
               <a
-                href="#"
+                href="https://www.instagram.com/leapmotor_rd/"
                 className="w-10 h-10 rounded-full bg-gray-700 flex items-center justify-center hover:bg-gray-600 transition"
                 aria-label="Instagram"
               >
@@ -164,7 +164,7 @@ const Footer = ({ sitemapLinks = defaultSitemapLinks }: FooterProps) => {
                 <Twitter size={18} />
               </a>
               <a
-                href="#"
+                href="https://www.linkedin.com/company/leapmotorglobal/"
                 className="w-10 h-10 rounded-full bg-gray-700 flex items-center justify-center hover:bg-gray-600 transition"
                 aria-label="LinkedIn"
               >
@@ -179,7 +179,7 @@ const Footer = ({ sitemapLinks = defaultSitemapLinks }: FooterProps) => {
               {t("footer.soporte")}
             </h3>
             <a
-              href="https://wa.me/1234567890"
+              href="https://wa.me/18498675788"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-3 w-full bg-green-500 hover:bg-green-600 text-white px-4 py-3 rounded-lg transition duration-300 font-semibold"
