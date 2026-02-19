@@ -92,8 +92,7 @@ const page = () => {
             onChange={(text) => form.setFieldValue("model", text)}
             options={[
               { label: "No aplica", value: "No aplica" },
-              { label: "Rox 01", value: "Rox 01" },
-              { label: "Rox Adamas", value: "Rox Adamas" },
+              { label: "C10", value: "C10" },
             ]}
           />
           {form.errors.model && (
