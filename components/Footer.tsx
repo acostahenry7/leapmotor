@@ -142,7 +142,7 @@ const Footer = ({ sitemapLinks = defaultSitemapLinks }: FooterProps) => {
               {t("footer.siguenos")}
             </h3>
             <div className="flex flex-wrap gap-4">
-              <a
+              {/* <a
                 href="#"
                 className="w-10 h-10 rounded-full bg-gray-700 flex items-center justify-center hover:bg-gray-600 transition"
                 aria-label="Facebook"
@@ -162,7 +162,7 @@ const Footer = ({ sitemapLinks = defaultSitemapLinks }: FooterProps) => {
                 aria-label="Twitter"
               >
                 <Twitter size={18} />
-              </a>
+              </a> */}
               <a
                 href="https://www.linkedin.com/company/leapmotorglobal/"
                 className="w-10 h-10 rounded-full bg-gray-700 flex items-center justify-center hover:bg-gray-600 transition"
