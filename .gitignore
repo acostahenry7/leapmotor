@@ -41,5 +41,6 @@ yarn-error.log*
 next-env.d.ts   
 
 
-/public/videos/
+/public/uploads/*
+!/public/uploads/.gitkeep
 

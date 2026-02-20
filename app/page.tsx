@@ -65,7 +65,7 @@ export default function Home() {
           />
         ))}
       <video
-        src="/videos/home_1.m4v"
+        src="/uploads/videos/home_1.m4v"
         autoPlay
         muted
         loop

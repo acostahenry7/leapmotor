@@ -31,7 +31,7 @@ const BrandPage = () => {
     <div className="mb-10">
       <div className="relative">
         <video
-          src="/videos/brand/banner.mp4"
+          src="/uploads/videos/brand/banner.mp4"
           autoPlay
           muted
           loop
